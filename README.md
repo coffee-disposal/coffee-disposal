@@ -12,24 +12,23 @@
 - React & Redux
 - Bootstrap & Bootswatch
 - NodeJS / Deno
-- PostgreSQL / MongoDB
-    
-  ### What I'm Learning 📒
+- PostgreSQL / MongoDB  
+### What I'm Learning 📒
 - C#
 - ASP.NET
 - Blazor
-  ### Collaborations? 👀
+### Collaborations? 👀
 _**YES!**_ I'd love to collaborate! Please [contact me](#contact-me-)!
-  ### Contact Me 📧
-- Github: coffee-disposal
-- Twitter: @coffee_disposal
+### Contact Me 📧
+- Github: [coffee-disposal](https://github.com/coffee-disposal)
+- Twitter: [@coffee_disposal](https://twitter.com/coffee_disposal)
 - Discord: coffee.disposal#2357
 - Email: coffee.disposal@protonmail.ch
   ### Future Plans 📆
 - C++
 - Swift
 - Flutter
-  ### Favorite Quotes 📌
+### Favorite Quotes 📌
 > Any application that can be written in JavaScript, will eventually be written in JavaScript.
 - Jeff Atwood
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.
