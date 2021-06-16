@@ -14,9 +14,9 @@
 - NodeJS / Deno
 - PostgreSQL / MongoDB  
 ### What I'm Learning 📒
-- C#
-- ASP.NET
-- Blazor
+- Flutter
+- ADB
+- Android
 ### Collaborations? 👀
 _**YES!**_ I'd love to collaborate! Please [contact me](#contact-me-)!
 ### Contact Me 📧
